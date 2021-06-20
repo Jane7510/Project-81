@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+
+body{
+    text-align: center;
+    background: rgb(255,170,204);
+background: linear-gradient(90deg, rgba(255,170,204,1) 25%, rgba(204,238,255,1) 61%);
+}
+
+canvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+h1{
+    font-family: 'Patrick Hand SC', cursive;
+}
+
+a{
+    text-decoration:none;
+    color: white;
+    
+}
+
+button{
+    background-color: #0d0e29;
+    border: none;
+    color: white;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+
+button:hover{
+    cursor: pointer;
+}
+    
+#olympics{
+    font-family: 'Patrick Hand', cursive;
+}
